@@ -1,4 +1,4 @@
- **E-Commerce Data Analysis**
+# **E-Commerce Data Analysis**
 
 ## **Overview**
 This project performs an exploratory data analysis (EDA) on a sample dataset of e-commerce transactions. The analysis involves cleaning the data, generating insights, and visualizing trends using Python libraries such as Pandas, NumPy, and Matplotlib.
